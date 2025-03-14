@@ -27,8 +27,8 @@
 
 #### Установка
 
-1. Клонировать репозиторий: git clone https://github.com/your-username/your-repo-name.git
-2. Перейти в директорию репозитория: cd your-repo-name
+1. Клонировать репозиторий: `git clon https://github.com/nikita89756/Tgbot.git`
+2. Перейти в директорию репозитория: cd Tgbot
 3. Установить зависимости: go get и 
 npm install
 4. Запустить бота: go run main.go
